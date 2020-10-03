@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: None
+start time: 2020-10-03 10:29:30.435123
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: None
+start time: 2020-10-03 10:29:45.436286
+end_time: None
+duration: None
+
+id: 2
+command: land
+response: None
+start time: 2020-10-03 10:30:05.451879
+end_time: None
+duration: None

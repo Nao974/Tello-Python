@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2020-10-03 10:20:32.853359
+end_time: 2020-10-03 10:20:32.914119
+duration: 0.06076
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2020-10-03 10:20:32.915113
+end_time: 2020-10-03 10:20:36.235878
+duration: 3.320765
+
+id: 2
+command: land
+response: b'ok'
+start time: 2020-10-03 10:20:41.242144
+end_time: 2020-10-03 10:20:46.029724
+duration: 4.78758
